@@ -43,10 +43,10 @@
 ### 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielwederson" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-wederson-morais-da-silva-8b31602b7" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:gabrielwederson@gmail.com">
+  <a href="mailto:gabrielwederson582@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  💡 “O código limpo é como um bom humor — você só percebe o quanto faz falta quando ele não está lá.”
+  💡 “Depois do primeiro hello world, nem nesaldina alivia a dor de cabeça.”
 </p>

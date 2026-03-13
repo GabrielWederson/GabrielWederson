@@ -1,29 +1,70 @@
-# Olá, me chamo Gabriel Wederson 👋
+# 👋 Hi, I'm Gabriel
 
-Sou desenvolvedor backend apaixonado por **Java** e tecnologias relacionadas, focado em criar aplicações robustas e escaláveis. Tenho experiência em **programação orientada a objetos (POO)**, desenvolvimento de APIs, integração com bancos de dados e arquitetura de software.
+☕ Java Backend Developer 
+🚀 Focused on building scalable backend applications using **Java and Spring Boot**
 
----
+I am passionate about backend development and currently focused on improving my skills in **Java, Spring Boot, REST APIs, and database projects**. I enjoy building real-world projects that simulate production environments and follow good software engineering practices.
 
-## 🛠 Tecnologias e Ferramentas
-
-- **Linguagens:** Java (POO)
-- **Frameworks:** Spring Boot, Spring Data JPA
-- **Banco de dados:** MySQL
-- **ORM:** JPA / Hibernate
-- **Outras ferramentas:** Maven, Git, Postman, IntelliJ IDEA
+My goal is to start my career as a **Java Backend Developer** and contribute to meaningful systems while continuously learning and improving.
 
 ---
 
-## 💡 Sobre mim
+# 💻 Tech Stack
 
-- Gosto de aprender novas tecnologias e melhorar continuamente minhas habilidades em backend.  
-- Busco sempre escrever código limpo, eficiente e de fácil manutenção.  
-- Interessado em arquitetura de microserviços e boas práticas de desenvolvimento.
+### Backend
+
+* Java
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
+* REST API Development
+
+### Databases
+
+* SQL
+* NoSQL
+* Database Modeling
+
+### Tools & Technologies
+
+* Git & GitHub
+* Maven
+* Docker
+* Postman / API Testing
 
 ---
 
-## 📫 Como me contatar
+# 📈 GitHub Stats
 
-- Email: gabrielwederson582@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/gabriel-wederson/  
- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielWederson\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWederson\&layout=compact\&theme=tokyonight)
+
+---
+
+# 📚 Currently Learning
+
+* Spring Security
+* Microservices Architecture
+* AWS
+* Performance optimization in Java applications
+
+---
+
+# 🌎 Career Goals
+
+* Become a **Java Backend Developer**
+* Work on scalable backend systems
+* Contribute to open-source projects
+* Build production-ready applications
+
+---
+
+# 📫 Contact Me
+
+💼 LinkedIn: https://www.linkedin.com/in/gabriel-wederson/
+📧 Email: gabrielwederson582@gmail.com
+
+---
+
+⭐ Always open to learning, collaboration, and new opportunities in **Java backend development**.

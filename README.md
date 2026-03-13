@@ -34,14 +34,6 @@ My goal is to start my career as a **Java Backend Developer** and contribute to 
 
 ---
 
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielWederson\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWederson\&layout=compact\&theme=tokyonight)
-
----
-
 # 📚 Currently Learning
 
 * Spring Security

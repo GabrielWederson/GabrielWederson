@@ -55,6 +55,7 @@ My goal is to start my career as a **Java Backend Developer** and contribute to 
 # 📫 Contact Me
 
 💼 LinkedIn: https://www.linkedin.com/in/gabriel-wederson/
+
 📧 Email: gabrielwederson582@gmail.com
 
 ---

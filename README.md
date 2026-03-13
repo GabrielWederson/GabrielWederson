@@ -3,7 +3,7 @@
 ☕ Java Backend Developer 
 🚀 Focused on building scalable backend applications using **Java and Spring Boot**
 
-I am passionate about backend development and currently focused on improving my skills in **Java, Spring Boot, REST APIs, and database projects**. I enjoy building real-world projects that simulate production environments and follow good software engineering practices.
+I am passionate about backend development and currently focused on improving my skills in **Java, Spring Boot, REST APIs, and database manipulation**. I enjoy building real-world projects that simulate production environments and follow good software engineering practices.
 
 My goal is to start my career as a **Java Backend Developer** and contribute to meaningful systems while continuously learning and improving.
 

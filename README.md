@@ -18,6 +18,7 @@ My goal is to start my career as a **Java Backend Developer** and contribute to 
 * Spring MVC
 * Spring Data JPA
 * REST API Development
+* Java Unit Test
 
 ### Databases
 
@@ -40,15 +41,6 @@ My goal is to start my career as a **Java Backend Developer** and contribute to 
 * Microservices Architecture
 * AWS
 * Performance optimization in Java applications
-
----
-
-# 🌎 Career Goals
-
-* Become a **Java Backend Developer**
-* Work on scalable backend systems
-* Contribute to open-source projects
-* Build production-ready applications
 
 ---
 

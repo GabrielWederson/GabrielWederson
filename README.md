@@ -19,6 +19,7 @@ My goal is to start my career as a **Java Backend Developer** and contribute to 
 * Spring Data JPA
 * REST API Development
 * Java Unit Test
+* Messaging
 
 ### Databases
 

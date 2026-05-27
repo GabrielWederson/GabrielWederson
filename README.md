@@ -39,9 +39,7 @@ My goal is to start my career as a **Java Backend Developer** and contribute to 
 
 # 📚 Currently Learning
 
-* Microservices Architecture
-* AWS
-* Performance optimization in Java applications
+* CI/CD
 
 ---
 

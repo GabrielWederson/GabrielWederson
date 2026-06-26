@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+SEU+NOME!;Java+Backend+Developer;Em+busca+da+1%C2%AA+oportunidade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Wederson!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <a href="https://github.com/seuusuario">
+  <a href="https://github.com/GabrielWederson">
     <img src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen?style=for-the-badge&logo=github" alt="Open to work">
   </a>
 </div>
@@ -17,7 +17,7 @@
 - 🧪 **Testes unitários** como cultura — todos os projetos com JUnit 5 e Mockito
 - 📦 Mensageria assíncrona com **Kafka** e **RabbitMQ**, caching com **Redis**
 - 🐳 **CI/CD** com GitHub Actions e Docker, levando código do commit ao deploy
-- 🎓 Cursando [seu curso / formado em X] e estudando Java há mais de 1 ano
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas e estudando Java há mais de 1 ano
 - 🤝 Busco minha **primeira vaga júnior** para contribuir com sistemas reais e acelerar meu crescimento
 
 ---
@@ -83,42 +83,27 @@
 
 ### 📌 Projetos que demonstram minha capacidade
 
-#### 🚀 [E-Commerce API](https://github.com/seuusuario/ecommerce-api)
-API de e-commerce completa com Spring Boot, Spring Security, JWT, MongoDB e cache Redis.
+#### 💰 [Payment Scheduling](https://github.com/GabrielWederson/create-payment-service)
+Microsserviço de Pagamento Agendado completa com Spring Boot, Spring Security, JWT, PostgreSQL.
 - Autenticação e autorização com roles `USER` e `ADMIN`
-- Carrinho de compras com cache em Redis (TTL configurável)
-- Testes de integração cobrindo >85% do código
-- **Diferencial:** Pipeline CI/CD com GitHub Actions e deploy no Railway
+- Jobs para checagem de saldo e aplicação do pagmamento na data correta
+- Testes de integração cobrindo mais de 85% do código
+- **Diferencial:** Backoff completo com dlt e replay com Apache Kafka
 
-#### 🛒 [Order Service com Mensageria](https://github.com/seuusuario/order-service)
-Microsserviço de pedidos com comunicação assíncrona via **Kafka** e **RabbitMQ**.
-- Produtor/consumidor de eventos `ORDER_CREATED`, `PAYMENT_PROCESSED`
+#### 💻 [Help Desk Pro](https://github.com/GabrielWederson/help-desk-pro)
+Microsserviço de criação e resolução de tickets para sistemas de Ti com Spring Boot, Redis, Security, RabbitMQ.
 - Tratamento de dead-letter queue e retry pattern
+- Camada de redis antes de consultas diretas com o banco
 - Documentação com Swagger
-- **Diferencial:** Implementa Saga Coreografada para consistência eventual
-
-#### 📊 [API de Finanças Pessoais](https://github.com/seuusuario/finance-api)
-CRUD de receitas e despesas com Spring Boot, Spring Data JPA e PostgreSQL.
-- Relatórios mensais com projeções (Stream API + Criteria Builder)
-- Validações robustas com Bean Validation e tratamento global de exceções
-- Testes unitários com JUnit e Mockito (cobertura 92%)
-- **Diferencial:** Uso de Liquibase para versionamento do banco de dados
+- **Diferencial:** Pipeline CI/CD com GitHub Actions e deploy
 
 ---
 
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-### 🏆 Conquistas no GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seuusuario&theme=nord&column=7&margin-w=10" alt="trophy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielWederson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWederson&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -126,22 +111,16 @@ CRUD de receitas e despesas com Spring Boot, Spring Data JPA e PostgreSQL.
 ### 📫 Conecte-se comigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/seu-perfil">
+  <a href="https://linkedin.com/in/gabriel-wederson/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:gabrielwederson582@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/seunumerowhatsapp">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://t.me/seutelegram">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seuusuario&color=green" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=GabrielWederson&color=green" alt="Profile views">
 </div>

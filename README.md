@@ -208,10 +208,9 @@ Help Desk platform built with Spring Boot following enterprise architecture prac
 - Retry Pattern
 - Dead Letter Queue
 - Swagger Documentation
-- GitHub Actions CI/CD
 - Role-Based Authorization
 - JWT Authentication
-- Unit tests (85%+ Coverage)
+- Unit tests 
 
 🔗 Repository
 

@@ -1,288 +1,108 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi,+I'm+Gabriel+Wederson;Java+Backend+Developer;Spring+Boot+%7C+AWS+%7C+Microservices" />
-</h1>
+# Gabriel Wederson
 
-<p align="center">
+### Java Backend Developer | Spring Boot | REST APIs | PostgreSQL | Docker
 
-<a href="https://linkedin.com/in/gabriel-wederson">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+I'm a Java Backend Developer and ADS student focused on building backend applications with Java and Spring Boot.
 
-<a href="mailto:gabrielwederson582@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+I have hands-on experience developing and deploying REST APIs, working with relational databases, authentication, caching, asynchronous messaging, automated testing and containerization.
 
-<img src="https://komarev.com/ghpvc/?username=GabrielWederson&style=for-the-badge&color=0e75b6"/>
-
-</p>
+Currently, I'm looking for opportunities as a Backend Java Intern or Junior Developer, where I can contribute to real products while continuing to grow through collaboration, code review and production experience.
 
 ---
 
-# 👨🏻‍💻 About Me
+## 🚀 Featured Projects
 
-I'm a **Java Backend Developer** passionate about building scalable, secure and maintainable applications.
+### 🎫 Help Desk Pro
 
-I enjoy designing REST APIs, working with microservices, asynchronous messaging, cloud services and software architecture.
+SaaS platform for ticket and support management.
 
-Currently focused on improving my skills in distributed systems and AWS while looking for an opportunity as a **Java Backend Developer**.
+**Highlights**
+- REST API with Java and Spring Boot
+- Spring Security + JWT authentication
+- Role-Based Access Control
+- PostgreSQL + Spring Data JPA
+- Redis caching
+- RabbitMQ messaging
+- JUnit 5 + Mockito
+- Docker and Docker Compose
+- OpenAPI / Swagger
+- Deployed application
 
----
-
-# 🚀 Tech Stack
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate"/>
-
-</p>
-
-- Java 
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- JWT Authentication
+[Repository](https://github.com/GabrielWederson/help-desk-pro)
 
 ---
 
-## Databases
+### 💰 Payment Scheduling
 
-<p>
+Backend service for scheduled payment processing using Spring Boot and Apache Kafka.
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
-
-</p>
-
+**Highlights**
+- Java + Spring Boot
+- Spring Security + JWT
 - PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-
----
-
-## Messaging
-
-<p>
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,aws"/>
-</p>
-
 - Apache Kafka
-- RabbitMQ
-- AWS SQS
-- AWS SNS
-
----
-
-## Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker"/>
-
-</p>
-
-- Amazon EC2
-- Amazon S3
-- Amazon RDS
-- AWS IAM
-- AWS SQS
-- AWS SNS
-
----
-
-## DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github"/>
-
-</p>
-
-- Docker
-- GitHub Actions
-- CI/CD Pipelines
-
----
-
-## Testing
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
-</p>
-
-- JUnit 5
-- Mockito
-
----
-
-# 🏛️ Engineering Principles
-
-✔ REST APIs
-
-✔ Microservices
-
-✔ Clean Code
-
-✔ SOLID Principles
-
-✔ Clean Architecture
-
-✔ Design Patterns
-
-✔ Repository Pattern
-
-✔ DTO Pattern
-
-✔ Exception Handling
-
-✔ Validation
-
-✔ Authentication & Authorization
-
-✔ Caching
-
-✔ Event-Driven Architecture
-
-✔ Asynchronous Processing
-
----
-
-# ⭐ Featured Projects
-
-## 💰 Payment Scheduling
-
-Microservice responsible for scheduled payments using Spring Boot and Apache Kafka.
-
-### Technologies
-
-- Java
-- Spring Boot
-- Spring Security
-- JWT
-- PostgreSQL
-- Kafka
-- Docker
-- GitHub Actions
-- Junit & Mockito
-
-### Features
-
-- JWT Authentication
-- Role-Based Authorization
-- Payment Scheduling
-- Balance Validation
-- Retry Pattern
-- Exponential Backoff
+- Retry and exponential backoff
 - Dead Letter Topic
-- Replay Processing
-- Unit tests (85%+ Coverage)
-
-🔗 Repository
-
-https://github.com/GabrielWederson/create-payment-service
-
----
-
-## 🎫 Help Desk Pro
-
-Help Desk platform built with Spring Boot following enterprise architecture practices.
-
-### Technologies
-
-- Java
-- Spring Boot
-- RabbitMQ
-- Redis
-- PostgreSQL
+- Replay processing
 - Docker
-- Spring Security
-- JWT
-- Junit & Mockito
+- GitHub Actions
+- JUnit 5 + Mockito
+- Automated tests
 
-### Features
-
-- Redis Cache
-- Retry Pattern
-- Dead Letter Queue
-- Swagger Documentation
-- Role-Based Authorization
-- JWT Authentication
-- Unit tests 
-
-🔗 Repository
-
-https://github.com/GabrielWederson/help-desk-pro
-
----
-# 📈 GitHub Analytics
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielWederson&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=GabrielWederson&theme=tokyonight&hide_border=true"/>
-
-</div>
+[Repository](https://github.com/GabrielWederson/create-payment-service)
 
 ---
 
-# 🌱 Currently Learning
+### 💈 Barbearia Paulista
 
-- ☁️ Advanced AWS Services
-- 🏗️ Spring Cloud
-- 📦 Distributed Systems
-- 🔍 Observability (Prometheus & Grafana)
-- 🚀 Kubernetes
-- ⚡ Performance Optimization
-- 🧩 Software Architecture
+Production project developed for a real business.
 
----
+**Highlights**
+- Java + Spring Boot REST API
+- PostgreSQL + Spring Data JPA
+- Flyway database migrations
+- OpenAPI / Swagger
+- Docker
+- Frontend/backend integration
+- Cloud deployment
 
-# 🎯 Career Goals
-
-I'm looking for opportunities where I can:
-
-- Build scalable backend systems
-- Work with cloud-native applications
-- Improve distributed architectures
-- Contribute to high-quality production software
-- Keep learning from experienced engineers
+[Live Application](https://barbeariapaulista.vercel.app/localizacao)
 
 ---
 
-# 📫 Let's Connect
+## 🛠️ Technical Skills
 
-<p align="center">
+**Backend**
+Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs, JWT
 
-<a href="mailto:gabrielwederson582@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Databases**
+PostgreSQL, MySQL, Redis, MongoDB
 
-<a href="https://linkedin.com/in/gabriel-wederson">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Messaging**
+RabbitMQ, Apache Kafka
 
-</p>
+**Testing**
+JUnit 5, Mockito
+
+**DevOps**
+Docker, Docker Compose, GitHub Actions, Git, GitHub, CI/CD
+
+**Other**
+Flyway, OpenAPI/Swagger, Maven, SOLID, Clean Code, Design Patterns
 
 ---
 
-<div align="center">
+## 📚 Currently Learning
 
-### 💡 "Code is more than making things work — it's about building solutions that last."
+- AWS
+- Spring Cloud
+- Kubernetes
+- Observability
+- Distributed Systems
 
-⭐ If you like my projects, consider giving them a star!
+---
 
-</div>
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/gabriel-wederson
+- Email: gabrielwederson582@gmail.com
